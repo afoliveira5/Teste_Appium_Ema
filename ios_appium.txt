@@ -1,0 +1,10 @@
+[caps]
+platformName = "iOS"
+platformVersion = "12.2"
+deviceName = "iPhone 8"
+noReset= "false"
+fullReset= "false"
+app = "/Users/teste/dev/appium/build/ipa/WebViewApp.app"
+
+[appium_lib]
+port = "4530"

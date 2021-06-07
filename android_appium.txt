@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = 'Pixel_2_API_29'
+app = "/Users/teste/dev/Teste_Mobile_Ruby_browstack/build/apk/desafio-ame-digital.apk"
+avd = 'Pixel_2_API_29'
+autoGrantPermissions = true
